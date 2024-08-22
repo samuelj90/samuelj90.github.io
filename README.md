@@ -15,8 +15,7 @@ A 11-year-old full-stack developer from Kerala 🌴 🇮🇳. Versatile Hands-on
 ☝️  Content management systems.
 
 ## AREAS OF INTEREST
-[![areas-of-interest](https://skills.thijs.gg/icons?i=java,javascript,kubernetes,docker,py,html,css,aws,azure&theme=light)]()
-
+[![areas-of-interest](https://skillicons.dev/icons?i=java,javascript,kubernetes,docker,py,html,css,aws,azure&theme=light)]()
 ## SKILLS
 ### Programming Languages
 [![Java][Java]][Java-url] 
