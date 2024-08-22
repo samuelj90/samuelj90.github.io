@@ -40,6 +40,7 @@ A 11-year-old full-stack developer from Kerala 🌴 🇮🇳. Versatile Hands-on
 [![Mocha][Mocha]][Mocha-url]
 [![Puppeteer][Puppeteer]][Puppeteer-url]
 [![AngularJS][AngularJS]][AngularJS-url]
+[![Playwright][Playwright]][Playwright-url]
 
 ### Backend Frameworks
 [![Spring][Spring]][Spring-url]
@@ -197,6 +198,9 @@ Please feel to contact me.
 
 [Mocha]:https://img.shields.io/badge/Mocha-20232A?style=for-the-badge&logo=Mocha
 [Mocha-url]:https://mochajs.org
+
+[Playwright]:https://img.shields.io/badge/Playwright-20232A?style=for-the-badge&logo=Playwright
+[Playwright-url]:https://playwright.dev
 
 [Spring]:https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=Spring
 [Spring-url]:https://spring.io
