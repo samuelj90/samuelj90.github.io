@@ -1,18 +1,14 @@
-A 11-year-old full-stack developer from Kerala 🌴 🇮🇳. Versatile Hands-on technical leader who enhances global market reach for several digital co operations in  🏦,💹,✈️ and 🛒 domains. 
+## About Me
+- 11-year-old full-stack developer from 🌴 Kerala, India.
+- Versatile Hands-on technical leader enhancing global market reach for several digital co operations in  🏦,💹,✈️ and 🛒 domains. 
 
-## AREAS OF EXPERTISE
-
-☝️  Micro service applications.
-
-☝️ Real-time web applications 
-
-☝️  Cloud Native Apps
-
-☝️  User interface developments.
-
-☝️  E-commerce applications.
-
-☝️  Content management systems.
+## Areas of Expertise
+- 🖥️ Microservices
+- 🌐 Real-time Web Applications
+- ☁️ Cloud Native Apps
+- 🎨 User Interface Development
+- 🛒 E-commerce Applications
+- 📚 Content Management Systems
 
 ## AREAS OF INTEREST
 [![areas-of-interest](https://skillicons.dev/icons?i=java,javascript,kubernetes,docker,py,html,css,aws,azure&theme=light)]()
