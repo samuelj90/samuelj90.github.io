@@ -1,8 +1,8 @@
-## About Me
+## ABOUT ME
 - 11-year-old full-stack developer from 🌴 Kerala, India.
 - Versatile Hands-on technical leader enhancing global market reach for several digital co operations in  🏦,💹,✈️ and 🛒 domains. 
 
-## Areas of Expertise
+## AREAS OF EXPERTISE
 - 🖥️ Microservices
 - 🌐 Real-time Web Applications
 - ☁️ Cloud Native Apps
@@ -85,37 +85,53 @@
 [![GCP][GCP]][GCP-url]
 [![Heroku][Heroku]][Heroku-url]
 
+
 ## TIMELINE
 
-🧑‍💻 **Dec 2022 till now :** Working as a senior software engineer at Emirates Airlines
+### 🧑💻 **Dec 2022 - Present**
+- **Senior Software Engineer** at Emirates Airlines
 
-👨‍👩‍👧‍👧 **2022** Norah Born
+### 👨‍👩‍👧‍👧 **2022**
+- **Norah Born**
 
-👨‍👩‍👦 **2020** Noah Born
+### 👨‍👩‍👧‍👧 **2020**
+- **Noah Born**
 
-🧑‍💻 **June 2020 Nov 2022 :** Working as a senior software engineer at Nissan Digital Hub
+### 🧑💻 **June 2020 - Nov 2022**
+- **Senior Software Engineer** at Nissan Digital Hub
 
-🧑‍💻 **May 2019 May 2020 :** Worked as a technical architecht at Geojit Technologies
+### 🧑💻 **May 2019 - May 2020**
+- **Technical Architect** at Geojit Technologies
 
-👨‍❤️‍👩 **2019** Married Nissi
+### 👨‍❤️‍👩 **2019**
+- **Married Nissi**
 
-🧑‍💻 **Sep 2016 May 2019 :** Worked as a senior software engineer at Geojit Technologies
+### 🧑💻 **Sep 2016 - May 2019**
+- **Senior Software Engineer** at Geojit Technologies
 
-🧑‍💻 **May 2014 to Sep 2016 :** Worked as a software engineer at Lenok Solutions.
+### 🧑💻 **May 2014 - Sep 2016**
+- **Software Engineer** at Lenok Solutions
 
-🧑‍💻 **May 2013 to May 2014 :** Worked as a software engineer at Neolink Technologies
+### 🧑💻 **May 2013 - May 2014**
+- **Software Engineer** at Neolink Technologies
 
-🙍‍♂️ **August 2012 to April 2013 :** Started my career as a junior software engineer at Alfine IT Solutions
+### 🙍♂️ **Aug 2012 - Apr 2013**
+- **Junior Software Engineer** at Alfine IT Solutions
 
-👨‍🎓 **July 2008-Aug 2012:** Completed graduation in information technology engineering, from college of engineering, poonjar (cochin university of science and technology).
+### 👨🎓 **July 2008 - Aug 2012**
+- Completed graduation in Information Technology Engineering from College of Engineering, Poonjar (Cochin University of Science and Technology)
 
-🤵‍♂️ **June 2006-May 2008:** Completed Plus Two (HSE) from St Mary’s Higher Secondary School (Department Of Higher Secondary Education Kerala).
+### 🤵♂️ **June 2006 - May 2008**
+- Completed Plus Two (HSE) from St Mary’s Higher Secondary School
 
-🦸‍♂️ **June 2004-May 2006:** Completed Indian Council for Secondary Education Examination, New Delhi from St Joseph’s Convent English Medium School.
+### 🦸♂️ **June 2004 - May 2006**
+- Completed Indian Council for Secondary Education Examination from St Joseph’s Convent English Medium School
 
-👶 **June 1994:** Started pre schooling.
+### 👶 **June 1994**
+- Started pre-schooling
 
-👼 **1990:** Born as a son of Mr. James Mathew and Mrs. Daisy James.
+### 👼 **1990**
+- Born as a son of Mr. James Mathew and Mrs. Daisy James
 
 ## CONTACT ME
 Please feel to contact me.
