@@ -13,126 +13,68 @@
 
 ## AREAS OF INTEREST
 ![areas-of-interest][areas-of-interest-logos]
+
 ## SKILLS
+
 ### Programming Languages
-[![Java][Java]][Java-url] 
-[![Javascript][Javascript]][Javascript-url] 
-[![PHP][PHP]][PHP-url] 
-[![HTML][HTML]][HTML-url] 
-[![CSS][CSS]][CSS-url] 
+[![Java][java-logo-url]]([java-url])  [![JavaScript][javascript-logo-url]]([javascript-url])  [![PHP][php-logo-url]]([php-url])  [![HTML][html-logo-url]]([html-url])  [![CSS][css-logo-url]]([css-url])
 
 ### Frontend Frameworks
-[![React][React.js]][React-url] 
-[![Redux][Redux]][Redux-url]
-[![MUI][MUI]][MUI-url]
-[![Angular][Angular]][Angular-url]
-[![NgRx][NgRx]][NgRx-url]
-[![Bootstrap][Bootstrap]][Bootstrap-url]
-[![Vue][Vue]][Vue-url]
-[![Jquery][Jquery]][Jquery-url]
-[![Webcomponents][Webcomponents]][Webcomponents-url]
-[![SASS][SASS]][SASS-url]
-[![Jest][Jest]][Jest-url]
-[![Jasmine][Jasmine]][Jasmine-url]
-[![Mocha][Mocha]][Mocha-url]
-[![Puppeteer][Puppeteer]][Puppeteer-url]
-[![AngularJS][AngularJS]][AngularJS-url]
-[![Playwright][Playwright]][Playwright-url]
+[![React][react-logo-url]]([react-url])  [![Redux][redux-logo-url]]([redux-url])  [![MUI][mui-logo-url]]([mui-url])  [![Angular][angular-logo-url]]([angular-url])  [![NgRx][ngrx-logo-url]]([ngrx-url])  [![Bootstrap][bootstrap-logo-url]]([bootstrap-url])  [![Vue][vue-logo-url]]([vue-url])  [![Jquery][jquery-logo-url]]([jquery-url])  [![Webcomponents][webcomponents-logo-url]]([webcomponents-url])  [![SASS][sass-logo-url]]([sass-url])  [![Jest][jest-logo-url]]([jest-url])  [![Jasmine][jasmine-logo-url]]([jasmine-url])  [![Mocha][mocha-logo-url]]([mocha-url])  [![Puppeteer][puppeteer-logo-url]]([puppeteer-url])  [![AngularJS][angularjs-logo-url]]([angularjs-url])  [![Playwright][playwright-logo-url]]([playwright-url])
 
 ### Backend Frameworks
-[![Spring][Spring]][Spring-url]
-[![Laravel][Laravel]][Laravel-url]
-[![Codeigniter][Codeigniter]][Codeigniter-url]
-[![Nodejs][Nodejs]][Nodejs-url]
-[![Expressjs][Expressjs]][Expressjs-url]
-[![Hibernate][Hibernate]][Hibernate-url]
-[![Struts2][Struts2]][Struts2-url]
-[![Junit][Junit]][Junit-url]
-
+[![Spring][spring-logo-url]]([spring-url])  [![Laravel][laravel-logo-url]]([laravel-url])  [![Codeigniter][codeigniter-logo-url]]([codeigniter-url])  [![Nodejs][nodejs-logo-url]]([nodejs-url])  [![Expressjs][expressjs-logo-url]]([expressjs-url])  [![Hibernate][hibernate-logo-url]]([hibernate-url])  [![Struts2][struts2-logo-url]]([struts2-url])  [![Junit][junit-logo-url]]([junit-url])
 
 ### Databases
-[![MySQL][MySQL]][MySQL-url]
-[![MSSQL][MSSQL]][MSSQL-url]
-[![Oracle][Oracle]][Oracle-url]
-[![Mongodb][Mongodb]][Mongodb-url]
-[![Redis][Redis]][Redis-url]
+[![MySQL][mysql-logo-url]]([mysql-url])  [![MSSQL][mssql-logo-url]]([mssql-url])  [![Oracle][oracle-logo-url]]([oracle-url])  [![Mongodb][mongodb-logo-url]]([mongodb-url])  [![Redis][redis-logo-url]]([redis-url])
 
 ### Build Tools
-[![Gradle][Gradle]][Gradle-url]
-[![Maven][Maven]][Maven-url]
-[![Webpack][Webpack]][Webpack-url]
-[![Gulp][Gulp]][Gulp-url]
-[![Grunt][Grunt]][Grunt-url]
+[![Gradle][gradle-logo-url]]([gradle-url])  [![Maven][maven-logo-url]]([maven-url])  [![Webpack][webpack-logo-url]]([webpack-url])  [![Gulp][gulp-logo-url]]([gulp-url])  [![Grunt][grunt-logo-url]]([grunt-url])
 
 ### Source Control
-[![GIT][GIT]][GIT-url]
-[![SVN][SVN]][SVN-url]
+[![GIT][git-logo-url]]([git-url])  [![SVN][svn-logo-url]]([svn-url])
 
 ### Devops
-[![Docker][Docker]][Docker-url]
-[![Kubernetes][Kubernetes]][Kubernetes-url]
-[![Jenkins][Jenkins]][Jenkins-url]
-[![Gitlab][Gitlab]][Gitlab-url]
-[![Github][Github]][Github-url]
-[![Splunk][Splunk]][Splunk-url]
+[![Docker][docker-logo-url]]([docker-url])  [![Kubernetes][kubernetes-logo-url]]([kubernetes-url])  [![Jenkins][jenkins-logo-url]]([jenkins-url])  [![Gitlab][gitlab-logo-url]]([gitlab-url])  [![Github][github-logo-url]]([github-url])  [![Splunk][splunk-logo-url]]([splunk-url])
 
 ### CMS
-[![AdobeAEM][AdobeAEM]][AdobeAEM-url]
-[![Wordpress][Wordpress]][Wordpress-url]
+[![AdobeAEM][adobeAEM-logo-url]]([adobeAEM-url])  [![Wordpress][wordpress-logo-url]]([wordpress-url])
 
 ### Cloud
-[![AWS][AWS]][AWS-url]
-[![Azure][Azure]][Azure-url]
-[![GCP][GCP]][GCP-url]
-[![Heroku][Heroku]][Heroku-url]
+[![AWS][aws-logo-url]]([aws-url])  [![Azure][azure-logo-url]]([azure-url])  [![GCP][gcp-logo-url]]([gcp-url])  [![Heroku][heroku-logo-url]]([heroku-url])
 
 
 ## TIMELINE
 
-### 🧑💻 **Dec 2022 - Present**
-- **Senior Software Engineer** at Emirates Airlines
+#### 🧑💻 Dec 2022 - Present :  _Senior Software Engineer_ at Emirates Airlines
 
-### 👨‍👩‍👧‍👧 **2022**
-- **Norah Born**
+#### 👨‍👩‍👧‍👧 2022 : Norah Born 
 
-### 👨‍👩‍👧‍👧 **2020**
-- **Noah Born**
+#### 👨‍👩‍👧‍👧 2020 : Noah Born
 
-### 🧑💻 **June 2020 - Nov 2022**
-- **Senior Software Engineer** at Nissan Digital Hub
+#### 🧑💻 June 2020 - Nov 2022 : _Senior Software Engineer_  at Nissan Digital Hub
 
-### 🧑💻 **May 2019 - May 2020**
-- **Technical Architect** at Geojit Technologies
+#### 🧑💻 May 2019 - May 2020 : _Technical Architect_ at Geojit Technologies
 
-### 👨‍❤️‍👩 **2019**
-- **Married Nissi**
+#### 👨‍❤️‍👩 2019 : Married Nissi 
 
-### 🧑💻 **Sep 2016 - May 2019**
-- **Senior Software Engineer** at Geojit Technologies
+#### 🧑💻 Sep 2016 - May 2019 : Senior _Software Engineer_  at Geojit Technologies
 
-### 🧑💻 **May 2014 - Sep 2016**
-- **Software Engineer** at Lenok Solutions
+#### 🧑💻 May 2014 - Sep 2016 : _Software Engineer_ at Lenok Solutions
 
-### 🧑💻 **May 2013 - May 2014**
-- **Software Engineer** at Neolink Technologies
+#### 🧑💻 May 2013 - May 2014 : _Software Engineer_ at Neolink Technologies
 
-### 🙍♂️ **Aug 2012 - Apr 2013**
-- **Junior Software Engineer** at Alfine IT Solutions
+#### 🙍♂️ Aug 2012 - Apr 2013 : _Junior Software Engineer_ at Alfine IT Solutions
 
-### 👨🎓 **July 2008 - Aug 2012**
-- Completed graduation in Information Technology Engineering from College of Engineering, Poonjar (Cochin University of Science and Technology)
+#### 👨🎓 July 2008 - Aug 2012 :  Completed graduation in _Information Technology_ Engineering from College of Engineering, Poonjar (Cochin University of Science and Technology)
 
-### 🤵♂️ **June 2006 - May 2008**
-- Completed Plus Two (HSE) from St Mary’s Higher Secondary School
+#### 🤵♂️ June 2006 - May 2008 : Completed _Plus Two (HSE)_ from St Mary’s Higher Secondary School
 
-### 🦸♂️ **June 2004 - May 2006**
-- Completed Indian Council for Secondary Education Examination from St Joseph’s Convent English Medium School
+#### 🦸♂️ June 2004 - May 2006 : Completed _Indian Council for Secondary Education Examination_ from St Joseph’s Convent English Medium School
 
-### 👶 **June 1994**
-- Started pre-schooling
+#### 👶 June 1994 : Started pre-schooling
 
-### 👼 **1990**
-- Born as a son of Mr. James Mathew and Mrs. Daisy James
+#### 👼 1990 : Born as a son of Mr. James Mathew and Mrs. Daisy James
 
 
 ## REFERENCE
@@ -148,173 +90,141 @@
 
 <!-- MARKDOWN LINKS & IMAGES --><!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Java]: https://img.shields.io/badge/Java-20232A?style=social&logo=openjdk
-[Java-url]: https://openjdk.org
+[java-url]: https://openjdk.org
+[javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[php-url]: https://www.php.net
+[html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
-[Javascript]: https://img.shields.io/badge/Javascript-20232A?style=social&logo=Javascript
-[Javascript-url]: https://en.wikipedia.org/wiki/JavaScript
+[react-url]: https://reactjs.org
+[redux-url]: https://redux.js.org
+[mui-url]: https://mui.com
+[angular-url]: https://angular.io
+[ngrx-url]: https://ngrx.io
+[bootstrap-url]: https://getbootstrap.com
+[vue-url]: https://vuejs.org
+[jquery-url]: https://jquery.com
+[webcomponents-url]: https://www.webcomponents.org
+[sass-url]: https://sass-lang.com
+[jest-url]: https://jestjs.io
+[jasmine-url]: https://jasmine.github.io
+[mocha-url]: https://mochajs.org
+[puppeteer-url]: https://pptr.dev
+[angularjs-url]: https://angularjs.org
+[playwright-url]: https://playwright.dev
 
-[PHP]: https://img.shields.io/badge/PHP-20232A?style=social&logo=PHP
-[PHP-url]: https://www.php.net
+[spring-url]: https://spring.io
+[laravel-url]: https://laravel.com
+[codeigniter-url]: https://codeigniter.com
+[nodejs-url]: https://nodejs.org/en
+[expressjs-url]: https://expressjs.com
+[hibernate-url]: https://hibernate.org
+[struts2-url]: https://struts.apache.org
+[junit-url]: https://junit.org/junit5
 
-[HTML]: https://img.shields.io/badge/HTML-20232A?style=social&logo=HTML5
-[HTML-url]: https://en.wikipedia.org/wiki/HTML
+[mysql-url]: https://www.mysql.com
+[mssql-url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+[oracle-url]: https://www.oracle.com/database/
+[mongodb-url]: https://www.mongodb.com
+[redis-url]: https://redis.io
 
-[CSS]: https://img.shields.io/badge/CSS-20232A?style=social&logo=CSS3
-[CSS-url]: https://en.wikipedia.org/wiki/CSS
+[gradle-url]: https://gradle.org
+[maven-url]: https://maven.apache.org
+[webpack-url]: https://webpack.js.org
+[gulp-url]: https://gulpjs.com
+[grunt-url]: https://gruntjs.com
 
-[Angular]: https://img.shields.io/badge/Angular-20232A?style=social&logo=angular&logoColor=DD0031
-[Angular-url]: https://angular.io
+[git-url]: https://git-scm.com
+[svn-url]: https://subversion.apache.org
 
-[React.js]:https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB
-[React-url]:https://reactjs.org
+[docker-url]: https://www.docker.com
+[kubernetes-url]: https://kubernetes.io
+[jenkins-url]: https://www.jenkins.io
+[gitlab-url]: https://about.gitlab.com
+[github-url]: https://github.com
+[splunk-url]: https://www.splunk.com
 
-[MUI]:https://img.shields.io/badge/MATERIAL%20UI-20232A?style=social&logo=mui&logoColor=007FFF
-[MUI-url]:https://mui.com
+[adobeAEM-url]: https://experienceleague.adobe.com
+[wordpress-url]: https://wordpress.com
 
-[Vue]:https://img.shields.io/badge/VUE-20232A?style=social&logo=vue.js&logoColor=4FC08D
-[Vue-url]:https://vuejs.org
+[aws-url]: https://aws.amazon.com
+[azure-url]: https://azure.microsoft.com
+[gcp-url]: https://cloud.google.com
+[heroku-url]: https://www.heroku.com
 
-[Jquery]:https://img.shields.io/badge/Jquery-20232A?style=social&logo=Jquery
-[Jquery-url]:https://jquery.com
+ 
+[java-logo-url]: https://img.shields.io/badge/Java-20232A?style=social&logo=openjdk
+[javascript-logo-url]: https://img.shields.io/badge/JavaScript-20232A?style=social&logo=javascript&logoColor=F7DF1E
+[php-logo-url]: https://img.shields.io/badge/PHP-20232A?style=social&logo=php&logoColor=777BB4
+[html-logo-url]: https://img.shields.io/badge/HTML-20232A?style=social&logo=html5&logoColor=E34F26
+[css-logo-url]: https://img.shields.io/badge/CSS-20232A?style=social&logo=css3&logoColor=1572B6
 
-[Bootstrap]:https://img.shields.io/badge/Bootstrap-20232A?style=social&logo=Bootstrap
-[Bootstrap-url]:https://getbootstrap.com
+[react-logo-url]: https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB
+[redux-logo-url]: https://img.shields.io/badge/Redux-20232A?style=social&logo=redux&logoColor=764ABC
+[mui-logo-url]: https://img.shields.io/badge/Material%20UI-20232A?style=social&logo=mui&logoColor=007FFF
+[angular-logo-url]: https://img.shields.io/badge/Angular-20232A?style=social&logo=angular&logoColor=DD0031
+[ngrx-logo-url]: https://img.shields.io/badge/NgRx-20232A?style=social&logo=ReactiveX
+[bootstrap-logo-url]: https://img.shields.io/badge/Bootstrap-20232A?style=social&logo=bootstrap&logoColor=563D7C
+[vue-logo-url]: https://img.shields.io/badge/Vue-20232A?style=social&logo=vue.js&logoColor=4FC08D
+[jquery-logo-url]: https://img.shields.io/badge/Jquery-20232A?style=social&logo=Jquery
+[webcomponents-logo-url]: https://img.shields.io/badge/Webcomponents-20232A?style=social&logo=Firefox
+[sass-logo-url]: https://img.shields.io/badge/SASS-20232A?style=social&logo=sass&logoColor=CC6699
+[jest-logo-url]: https://img.shields.io/badge/Jest-20232A?style=social&logo=Jest
+[jasmine-logo-url]: https://img.shields.io/badge/Jasmine-20232A?style=social&logo=Jasmine
+[mocha-logo-url]: https://img.shields.io/badge/Mocha-20232A?style=social&logo=Mocha
+[puppeteer-logo-url]: https://img.shields.io/badge/Puppeteer-20232A?style=social&logo=Puppeteer
+[angularjs-logo-url]: https://img.shields.io/badge/AngularJS-20232A?style=social&logo=AngularJS
+[playwright-logo-url]: https://img.shields.io/badge/Playwright-20232A?style=social&logo=Playwright
 
-[NgRx]:https://img.shields.io/badge/NgRx-20232A?style=social&logo=ReactiveX
-[NgRx-url]:https://ngrx.io
+[spring-logo-url]: https://img.shields.io/badge/Spring-20232A?style=social&logo=spring
+[laravel-logo-url]: https://img.shields.io/badge/Laravel-20232A?style=social&logo=Laravel
+[codeigniter-logo-url]: https://img.shields.io/badge/Codeigniter-20232A?style=social&logo=Codeigniter
+[nodejs-logo-url]: https://img.shields.io/badge/Node.js-20232A?style=social&logo=node.js
+[expressjs-logo-url]: https://img.shields.io/badge/Express-20232A?style=social&logo=express
+[hibernate-logo-url]: https://img.shields.io/badge/Hibernate-20232A?style=social&logo=hibernate
+[struts2-logo-url]: https://img.shields.io/badge/Struts-20232A?style=social&logo=apache
+[junit-logo-url]: https://img.shields.io/badge/Junit-20232A?style=social&logo=junit
 
-[Redux]: https://img.shields.io/badge/Redux-20232A?style=social&logo=Redux
-[Redux-url]:https://redux.js.org
+[mysql-logo-url]: https://img.shields.io/badge/MySQL-20232A?style=social&logo=MySQL
+[mssql-logo-url]: https://img.shields.io/badge/MSSQL-20232A?style=social&logo=microsoft-sql-server
+[oracle-logo-url]: https://img.shields.io/badge/Oracle-20232A?style=social&logo=Oracle
+[mongodb-logo-url]: https://img.shields.io/badge/Mongodb-20232A?style=social&logo=Mongodb
+[redis-logo-url]: https://img.shields.io/badge/Redis-20232A?style=social&logo=Redis
 
-[Webcomponents]: https://img.shields.io/badge/Webcomponents-20232A?style=social&logo=Firefox
-[Webcomponents-url]:https://www.webcomponents.org
+[gradle-logo-url]: https://img.shields.io/badge/Gradle-20232A?style=social&logo=Gradle
+[maven-logo-url]: https://img.shields.io/badge/Maven-20232A?style=social&logo=Apache%20Maven
+[webpack-logo-url]: https://img.shields.io/badge/Webpack-20232A?style=social&logo=Webpack
+[gulp-logo-url]: https://img.shields.io/badge/Gulp-20232A?style=social&logo=Gulp
+[grunt-logo-url]: https://img.shields.io/badge/Grunt-20232A?style=social&logo=Grunt
 
-[SASS]:https://img.shields.io/badge/SASS-20232A?style=social&logo=SASS
-[SASS-url]:https://sass-lang.com
+[git-logo-url]: https://img.shields.io/badge/Git-20232A?style=social&logo=Git
+[svn-logo-url]: https://img.shields.io/badge/SVN-20232A?style=social&logo=subversion
 
-[Jest]:https://img.shields.io/badge/Jest-20232A?style=social&logo=Jest
-[Jest-url]:https://jestjs.io
+[docker-logo-url]: https://img.shields.io/badge/Docker-20232A?style=social&logo=Docker
+[kubernetes-logo-url]: https://img.shields.io/badge/Kubernetes-20232A?style=social&logo=Kubernetes
+[jenkins-logo-url]: https://img.shields.io/badge/Jenkins-20232A?style=social&logo=Jenkins
+[gitlab-logo-url]: https://img.shields.io/badge/Gitlab-20232A?style=social&logo=Gitlab
+[github-logo-url]: https://img.shields.io/badge/Github-20232A?style=social&logo=Github
+[splunk-logo-url]: https://img.shields.io/badge/Splunk-20232A?style=social&logo=Splunk
 
-[Jasmine]: https://img.shields.io/badge/Jasmine-20232A?style=social&logo=Jasmine
-[Jasmine-url]: https://jasmine.github.io
+[adobeAEM-logo-url]: https://img.shields.io/badge/Adobe%20AEM-20232A?style=social&logo=adobe
+[wordpress-logo-url]: https://img.shields.io/badge/WordPress-20232A?style=social&logo=Wordpress
 
-[Puppeteer]:https://img.shields.io/badge/Puppeteer-20232A?style=social&logo=Puppeteer
-[Puppeteer-url]:https://pptr.dev
+[aws-logo-url]: https://img.shields.io/badge/AWS-20232A?style=social&logo=amazon-aws
+[azure-logo-url]: https://img.shields.io/badge/Azure-20232A?style=social&logo=microsoft-azure
+[gcp-logo-url]: https://img.shields.io/badge/GCP-20232A?style=social&logo=google-cloud
+[heroku-logo-url]: https://img.shields.io/badge/Heroku-20232A?style=social&logo=heroku
 
-[AngularJS]:https://img.shields.io/badge/AngularJS-20232A?style=social&logo=AngularJS
-[AngularJS-url]:https://angularjs.org
+[Stackoverflow]: https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white
+[Stackoverflow-url]: https://stackoverflow.com/story/samuelj90
 
-[Mocha]:https://img.shields.io/badge/Mocha-20232A?style=social&logo=Mocha
-[Mocha-url]:https://mochajs.org
+[Github-Personal]: https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white
+[Github-Personal-url]: https://github.com/samuelj90
 
-[Playwright]:https://img.shields.io/badge/Playwright-20232A?style=social&logo=Playwright
-[Playwright-url]:https://playwright.dev
+[Email]: https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white
+[Email-url]: mailto:samuelj90@gmail.com?subject=[GitHub]%20Personal%20Website%20Contact
 
-[Spring]:https://img.shields.io/badge/Spring-20232A?style=social&logo=Spring
-[Spring-url]:https://spring.io
+[LinkedIn-url]: https://linkedin.com/in/samuelj90
+[Areas-of-Interest-Logos]: https://skillicons.dev/icons?i=java,javascript,kubernetes,docker,py,html,css,aws,azure&theme=light
 
-[Laravel]:https://img.shields.io/badge/Laravel-20232A?style=social&logo=Laravel
-[Laravel-url]:https://laravel.com
 
-[Codeigniter]:https://img.shields.io/badge/Codeigniter-20232A?style=social&logo=Codeigniter
-[Codeigniter-url]:https://codeigniter.com
-
-[Nodejs]:https://img.shields.io/badge/Nodejs-20232A?style=social&logo=Node.js
-[Nodejs-url]:https://nodejs.org/en
-
-[Expressjs]:https://img.shields.io/badge/Expressjs-20232A?style=social&logo=express
-[Expressjs-url]: https://expressjs.com
-
-[Hibernate]: https://img.shields.io/badge/Hibernate-20232A?style=social&logo=Hibernate
-[Hibernate-url]: https://hibernate.org/
-
-[Struts2]: https://img.shields.io/badge/Apache_Struts2-20232A?style=social&logo=apache
-[Struts2-url]:https://struts.apache.org
-
-[Junit]: https://img.shields.io/badge/Junit-20232A?style=social&logo=data:image/png;base64,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
-[Junit-url]:https://junit.org/junit5/
-
-[MySQL]:https://img.shields.io/badge/MySQL-20232A?style=social&logo=MySQL
-[MySQL-url]:https://www.mysql.com
-
-[MSSQL]:https://img.shields.io/badge/MSSQL-20232A?style=social&logo=microsoft-sql-server
-[MSSQL-url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-
-[Oracle]:https://img.shields.io/badge/Oracle-20232A?style=social&logo=Oracle
-[Oracle-url]: https://www.oracle.com/database/
-
-[Mongodb]:https://img.shields.io/badge/Mongodb-20232A?style=social&logo=Mongodb
-[Mongodb-url]:https://www.mongodb.com/
-
-[Redis]:https://img.shields.io/badge/Redis-20232A?style=social&logo=Redis
-[Redis-url]:https://redis.io/
-
-[Gradle]: https://img.shields.io/badge/Gradle-20232A?style=social&logo=Gradle
-[Gradle-url]: https://gradle.org/
-
-[Maven]: https://img.shields.io/badge/Apache_Maven-20232A?style=social&logo=Apache%20Maven
-[Maven-url]: https://maven.apache.org/
-
-[Webpack]: https://img.shields.io/badge/Webpack-20232A?style=social&logo=Webpack
-[Webpack-url]: https://webpack.js.org/
-
-[Gulp]: https://img.shields.io/badge/Gulp-20232A?style=social&logo=Gulp
-[Gulp-url]: https://gulpjs.com/
-
-[Grunt]: https://img.shields.io/badge/Grunt-20232A?style=social&logo=Grunt
-[Grunt-url]: https://gruntjs.com/
-
-[GIT]: https://img.shields.io/badge/GIT-20232A?style=social&logo=GIT
-[GIT-url]: https://git-scm.com/
-
-[SVN]: https://img.shields.io/badge/Appache_Subversion-20232A?style=social&logo=subversion
-[SVN-url]: https://subversion.apache.org/
-
-[Docker]: https://img.shields.io/badge/Docker-20232A?style=social&logo=Docker
-[Docker-url]: https://www.docker.com/
-
-[Kubernetes]: https://img.shields.io/badge/Kubernetes-20232A?style=social&logo=Kubernetes
-[Kubernetes-url]: https://kubernetes.io/
-
-[Jenkins]: https://img.shields.io/badge/Jenkins-20232A?style=social&logo=Jenkins
-[Jenkins-url]: https://www.jenkins.io/
-
-[Gitlab]: https://img.shields.io/badge/Gitlab-20232A?style=social&logo=Gitlab
-[Gitlab-url]: https://about.gitlab.com/
-
-[Github]: https://img.shields.io/badge/Github-20232A?style=social&logo=Github
-[Github-url]: https://github.com/
-
-[Splunk]: https://img.shields.io/badge/Splunk-20232A?style=social&logo=Splunk
-[Splunk-url]: https://www.splunk.com/
-
-[AdobeAEM]: https://img.shields.io/badge/ADOBE_EXPERIENCE_MANAGER-20232A?style=social&logo=adobe
-[AdobeAEM-url]:https://experienceleague.adobe.com/
-
-[Wordpress]: https://img.shields.io/badge/Wordpress-20232A?style=social&logo=Wordpress
-[Wordpress-url]: https://wordpress.com/
-
-[AWS]: https://img.shields.io/badge/AMAZON_AWS-20232A?style=social&logo=amazon-aws
-[AWS-url]: https://aws.amazon.com/
-
-[Azure]: https://img.shields.io/badge/MICROSOFT_Azure-20232A?style=social&logo=microsoft-azure
-[Azure-url]: https://azure.microsoft.com/
-
-[GCP]: https://img.shields.io/badge/Google_Cloud-20232A?style=social&logo=google-cloud
-[GCP-url]: https://cloud.google.com/
-
-[Heroku]:https://img.shields.io/badge/Heroku-20232A?style=social&logo=heroku
-[Heroku-url]: https://www.heroku.com/
-
-[stackoverflow]: https://img.shields.io/badge/Stack%20Overflow-F58025?style=social&logo=Stack%20Overflow&logoColor=white
-[stackoverflow-url]: https://stackoverflow.com/story/samuelj90
-
-[github-personal]: https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=white
-[github-personal-url]: https://github.com/samuelj90
-
-[email]: https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white
-[email-url]: mailto:samuelj90@gmail.com?subject=[GitHub]%20Personal%20Website%20Contact
-
-[linkedin-url]:https://linkedin.com/in/samuelj90
-[areas-of-interest-logos]:https://skillicons.dev/icons?i=java,javascript,kubernetes,docker,py,html,css,aws,azure&theme=light
