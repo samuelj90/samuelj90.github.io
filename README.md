@@ -1,4 +1,5 @@
-## ABOUT ME
+## 🚀 Fullstack Developer | Java - Javascript Expert | Technical Architect | Developer Advocate | Banking / Payments Industry Professional  
+[Email][email-url] | [GitHub][github-personal-url] | [LinkedIn][linkedin-url]
 - 11-year-old full-stack developer from 🌴 Kerala, India.
 - Versatile Hands-on technical leader enhancing global market reach for several digital co operations in  🏦,💹,✈️ and 🛒 domains. 
 
@@ -11,7 +12,7 @@
 - 📚 Content Management Systems
 
 ## AREAS OF INTEREST
-[![areas-of-interest](https://skillicons.dev/icons?i=java,javascript,kubernetes,docker,py,html,css,aws,azure&theme=light)]()
+![areas-of-interest][areas-of-interest-logos]
 ## SKILLS
 ### Programming Languages
 [![Java][Java]][Java-url] 
@@ -133,10 +134,6 @@
 ### 👼 **1990**
 - Born as a son of Mr. James Mathew and Mrs. Daisy James
 
-## CONTACT ME
-Please feel to contact me.
-
-[![email][email]][email]
 
 ## REFERENCE
 
@@ -318,3 +315,6 @@ Please feel to contact me.
 
 [email]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:samuelj90@gmail.com?subject=[GitHub]%20Personal%20Website%20Contact
+
+[linkedin-url]:https://linkedin.com/in/samuelj90
+[areas-of-interest-logos]:https://skillicons.dev/icons?i=java,javascript,kubernetes,docker,py,html,css,aws,azure&theme=light
