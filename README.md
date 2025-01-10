@@ -17,31 +17,31 @@
 ## SKILLS
 
 ### Programming Languages
-[![Java][java-logo-url]]([java-url])  [![JavaScript][javascript-logo-url]]([javascript-url])  [![PHP][php-logo-url]]([php-url])  [![HTML][html-logo-url]]([html-url])  [![CSS][css-logo-url]]([css-url])
+[![Java][java-logo-url]][java-url]  [![JavaScript][javascript-logo-url]][javascript-url]  [![PHP][php-logo-url]][php-url]  [![HTML][html-logo-url]][html-url]  [![CSS][css-logo-url]][css-url]
 
 ### Frontend Frameworks
-[![React][react-logo-url]]([react-url])  [![Redux][redux-logo-url]]([redux-url])  [![MUI][mui-logo-url]]([mui-url])  [![Angular][angular-logo-url]]([angular-url])  [![NgRx][ngrx-logo-url]]([ngrx-url])  [![Bootstrap][bootstrap-logo-url]]([bootstrap-url])  [![Vue][vue-logo-url]]([vue-url])  [![Jquery][jquery-logo-url]]([jquery-url])  [![Webcomponents][webcomponents-logo-url]]([webcomponents-url])  [![SASS][sass-logo-url]]([sass-url])  [![Jest][jest-logo-url]]([jest-url])  [![Jasmine][jasmine-logo-url]]([jasmine-url])  [![Mocha][mocha-logo-url]]([mocha-url])  [![Puppeteer][puppeteer-logo-url]]([puppeteer-url])  [![AngularJS][angularjs-logo-url]]([angularjs-url])  [![Playwright][playwright-logo-url]]([playwright-url])
+[![React][react-logo-url]][react-url]  [![Redux][redux-logo-url]][redux-url]  [![MUI][mui-logo-url]][mui-url]  [![Angular][angular-logo-url]][angular-url]  [![NgRx][ngrx-logo-url]][ngrx-url]  [![Bootstrap][bootstrap-logo-url]][bootstrap-url]  [![Vue][vue-logo-url]][vue-url]  [![Jquery][jquery-logo-url]][jquery-url]  [![Webcomponents][webcomponents-logo-url]][webcomponents-url]  [![SASS][sass-logo-url]][sass-url]  [![Jest][jest-logo-url]][jest-url]  [![Jasmine][jasmine-logo-url]][jasmine-url]  [![Mocha][mocha-logo-url]][mocha-url]  [![Puppeteer][puppeteer-logo-url]][puppeteer-url]  [![AngularJS][angularjs-logo-url]][angularjs-url]  [![Playwright][playwright-logo-url]][playwright-url]
 
 ### Backend Frameworks
-[![Spring][spring-logo-url]]([spring-url])  [![Laravel][laravel-logo-url]]([laravel-url])  [![Codeigniter][codeigniter-logo-url]]([codeigniter-url])  [![Nodejs][nodejs-logo-url]]([nodejs-url])  [![Expressjs][expressjs-logo-url]]([expressjs-url])  [![Hibernate][hibernate-logo-url]]([hibernate-url])  [![Struts2][struts2-logo-url]]([struts2-url])  [![Junit][junit-logo-url]]([junit-url])
+[![Spring][spring-logo-url]][spring-url]  [![Laravel][laravel-logo-url]][laravel-url]  [![Codeigniter][codeigniter-logo-url]][codeigniter-url]  [![Nodejs][nodejs-logo-url]][nodejs-url]  [![Expressjs][expressjs-logo-url]][expressjs-url]  [![Hibernate][hibernate-logo-url]][hibernate-url]  [![Struts2][struts2-logo-url]][struts2-url]  [![Junit][junit-logo-url]][junit-url]
 
 ### Databases
-[![MySQL][mysql-logo-url]]([mysql-url])  [![MSSQL][mssql-logo-url]]([mssql-url])  [![Oracle][oracle-logo-url]]([oracle-url])  [![Mongodb][mongodb-logo-url]]([mongodb-url]) [![PostgreSQL][postgresql-logo-url]]([postgresql-url])  [![Redis][redis-logo-url]]([redis-url])
+[![MySQL][mysql-logo-url]][mysql-url]  [![MSSQL][mssql-logo-url]][mssql-url]  [![Oracle][oracle-logo-url]][oracle-url]  [![Mongodb][mongodb-logo-url]][mongodb-url] [![PostgreSQL][postgresql-logo-url]][postgresql-url]  [![Redis][redis-logo-url]][redis-url]
 
 ### Build Tools
-[![Gradle][gradle-logo-url]]([gradle-url])  [![Maven][maven-logo-url]]([maven-url])  [![Webpack][webpack-logo-url]]([webpack-url])  [![Gulp][gulp-logo-url]]([gulp-url])  [![Grunt][grunt-logo-url]]([grunt-url])
+[![Gradle][gradle-logo-url]][gradle-url]  [![Maven][maven-logo-url]][maven-url]  [![Webpack][webpack-logo-url]][webpack-url]  [![Gulp][gulp-logo-url]][gulp-url]  [![Grunt][grunt-logo-url]][grunt-url]
 
 ### Source Control
-[![GIT][git-logo-url]]([git-url])  [![SVN][svn-logo-url]]([svn-url])
+[![GIT][git-logo-url]][git-url]  [![SVN][svn-logo-url]][svn-url]
 
 ### Devops
-[![Docker][docker-logo-url]]([docker-url])  [![Kubernetes][kubernetes-logo-url]]([kubernetes-url])  [![Jenkins][jenkins-logo-url]]([jenkins-url])  [![Gitlab][gitlab-logo-url]]([gitlab-url])  [![Github][github-logo-url]]([github-url])  [![Splunk][splunk-logo-url]]([splunk-url])
+[![Docker][docker-logo-url]][docker-url]  [![Kubernetes][kubernetes-logo-url]][kubernetes-url]  [![Jenkins][jenkins-logo-url]][jenkins-url]  [![Gitlab][gitlab-logo-url]][gitlab-url]  [![Github][github-logo-url]][github-url]  [![Splunk][splunk-logo-url]][splunk-url]
 
 ### CMS
-[![AdobeAEM][adobeAEM-logo-url]]([adobeAEM-url])  [![Wordpress][wordpress-logo-url]]([wordpress-url])
+[![AdobeAEM][adobeAEM-logo-url]][adobeAEM-url]  [![Wordpress][wordpress-logo-url]][wordpress-url]
 
 ### Cloud
-[![AWS][aws-logo-url]]([aws-url])  [![Azure][azure-logo-url]]([azure-url])  [![GCP][gcp-logo-url]]([gcp-url])  [![Heroku][heroku-logo-url]]([heroku-url])
+[![AWS][aws-logo-url]][aws-url]  [![Azure][azure-logo-url]][azure-url]  [![GCP][gcp-logo-url]][gcp-url]  [![Heroku][heroku-logo-url]][heroku-url]
 
 
 ## TIMELINE
