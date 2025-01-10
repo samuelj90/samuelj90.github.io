@@ -148,172 +148,172 @@
 
 <!-- MARKDOWN LINKS & IMAGES --><!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk
+[Java]: https://img.shields.io/badge/Java-20232A?style=social&logo=openjdk
 [Java-url]: https://openjdk.org
 
-[Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=Javascript
+[Javascript]: https://img.shields.io/badge/Javascript-20232A?style=social&logo=Javascript
 [Javascript-url]: https://en.wikipedia.org/wiki/JavaScript
 
-[PHP]: https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=PHP
+[PHP]: https://img.shields.io/badge/PHP-20232A?style=social&logo=PHP
 [PHP-url]: https://www.php.net
 
-[HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=HTML5
+[HTML]: https://img.shields.io/badge/HTML-20232A?style=social&logo=HTML5
 [HTML-url]: https://en.wikipedia.org/wiki/HTML
 
-[CSS]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=CSS3
+[CSS]: https://img.shields.io/badge/CSS-20232A?style=social&logo=CSS3
 [CSS-url]: https://en.wikipedia.org/wiki/CSS
 
-[Angular]: https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031
+[Angular]: https://img.shields.io/badge/Angular-20232A?style=social&logo=angular&logoColor=DD0031
 [Angular-url]: https://angular.io
 
-[React.js]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]:https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB
 [React-url]:https://reactjs.org
 
-[MUI]:https://img.shields.io/badge/MATERIAL%20UI-20232A?style=for-the-badge&logo=mui&logoColor=007FFF
+[MUI]:https://img.shields.io/badge/MATERIAL%20UI-20232A?style=social&logo=mui&logoColor=007FFF
 [MUI-url]:https://mui.com
 
-[Vue]:https://img.shields.io/badge/VUE-20232A?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+[Vue]:https://img.shields.io/badge/VUE-20232A?style=social&logo=vue.js&logoColor=4FC08D
 [Vue-url]:https://vuejs.org
 
-[Jquery]:https://img.shields.io/badge/Jquery-20232A?style=for-the-badge&logo=Jquery
+[Jquery]:https://img.shields.io/badge/Jquery-20232A?style=social&logo=Jquery
 [Jquery-url]:https://jquery.com
 
-[Bootstrap]:https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=Bootstrap
+[Bootstrap]:https://img.shields.io/badge/Bootstrap-20232A?style=social&logo=Bootstrap
 [Bootstrap-url]:https://getbootstrap.com
 
-[NgRx]:https://img.shields.io/badge/NgRx-20232A?style=for-the-badge&logo=ReactiveX
+[NgRx]:https://img.shields.io/badge/NgRx-20232A?style=social&logo=ReactiveX
 [NgRx-url]:https://ngrx.io
 
-[Redux]: https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=Redux
+[Redux]: https://img.shields.io/badge/Redux-20232A?style=social&logo=Redux
 [Redux-url]:https://redux.js.org
 
-[Webcomponents]: https://img.shields.io/badge/Webcomponents-20232A?style=for-the-badge&logo=Firefox
+[Webcomponents]: https://img.shields.io/badge/Webcomponents-20232A?style=social&logo=Firefox
 [Webcomponents-url]:https://www.webcomponents.org
 
-[SASS]:https://img.shields.io/badge/SASS-20232A?style=for-the-badge&logo=SASS
+[SASS]:https://img.shields.io/badge/SASS-20232A?style=social&logo=SASS
 [SASS-url]:https://sass-lang.com
 
-[Jest]:https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=Jest
+[Jest]:https://img.shields.io/badge/Jest-20232A?style=social&logo=Jest
 [Jest-url]:https://jestjs.io
 
-[Jasmine]: https://img.shields.io/badge/Jasmine-20232A?style=for-the-badge&logo=Jasmine
+[Jasmine]: https://img.shields.io/badge/Jasmine-20232A?style=social&logo=Jasmine
 [Jasmine-url]: https://jasmine.github.io
 
-[Puppeteer]:https://img.shields.io/badge/Puppeteer-20232A?style=for-the-badge&logo=Puppeteer
+[Puppeteer]:https://img.shields.io/badge/Puppeteer-20232A?style=social&logo=Puppeteer
 [Puppeteer-url]:https://pptr.dev
 
-[AngularJS]:https://img.shields.io/badge/AngularJS-20232A?style=for-the-badge&logo=AngularJS
+[AngularJS]:https://img.shields.io/badge/AngularJS-20232A?style=social&logo=AngularJS
 [AngularJS-url]:https://angularjs.org
 
-[Mocha]:https://img.shields.io/badge/Mocha-20232A?style=for-the-badge&logo=Mocha
+[Mocha]:https://img.shields.io/badge/Mocha-20232A?style=social&logo=Mocha
 [Mocha-url]:https://mochajs.org
 
-[Playwright]:https://img.shields.io/badge/Playwright-20232A?style=for-the-badge&logo=Playwright
+[Playwright]:https://img.shields.io/badge/Playwright-20232A?style=social&logo=Playwright
 [Playwright-url]:https://playwright.dev
 
-[Spring]:https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=Spring
+[Spring]:https://img.shields.io/badge/Spring-20232A?style=social&logo=Spring
 [Spring-url]:https://spring.io
 
-[Laravel]:https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=Laravel
+[Laravel]:https://img.shields.io/badge/Laravel-20232A?style=social&logo=Laravel
 [Laravel-url]:https://laravel.com
 
-[Codeigniter]:https://img.shields.io/badge/Codeigniter-20232A?style=for-the-badge&logo=Codeigniter
+[Codeigniter]:https://img.shields.io/badge/Codeigniter-20232A?style=social&logo=Codeigniter
 [Codeigniter-url]:https://codeigniter.com
 
-[Nodejs]:https://img.shields.io/badge/Nodejs-20232A?style=for-the-badge&logo=Node.js
+[Nodejs]:https://img.shields.io/badge/Nodejs-20232A?style=social&logo=Node.js
 [Nodejs-url]:https://nodejs.org/en
 
-[Expressjs]:https://img.shields.io/badge/Expressjs-20232A?style=for-the-badge&logo=express
+[Expressjs]:https://img.shields.io/badge/Expressjs-20232A?style=social&logo=express
 [Expressjs-url]: https://expressjs.com
 
-[Hibernate]: https://img.shields.io/badge/Hibernate-20232A?style=for-the-badge&logo=Hibernate
+[Hibernate]: https://img.shields.io/badge/Hibernate-20232A?style=social&logo=Hibernate
 [Hibernate-url]: https://hibernate.org/
 
-[Struts2]: https://img.shields.io/badge/Apache_Struts2-20232A?style=for-the-badge&logo=apache
+[Struts2]: https://img.shields.io/badge/Apache_Struts2-20232A?style=social&logo=apache
 [Struts2-url]:https://struts.apache.org
 
-[Junit]: https://img.shields.io/badge/Junit-20232A?style=for-the-badge&logo=data:image/png;base64,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
+[Junit]: https://img.shields.io/badge/Junit-20232A?style=social&logo=data:image/png;base64,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
 [Junit-url]:https://junit.org/junit5/
 
-[MySQL]:https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=MySQL
+[MySQL]:https://img.shields.io/badge/MySQL-20232A?style=social&logo=MySQL
 [MySQL-url]:https://www.mysql.com
 
-[MSSQL]:https://img.shields.io/badge/MSSQL-20232A?style=for-the-badge&logo=microsoft-sql-server
+[MSSQL]:https://img.shields.io/badge/MSSQL-20232A?style=social&logo=microsoft-sql-server
 [MSSQL-url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
-[Oracle]:https://img.shields.io/badge/Oracle-20232A?style=for-the-badge&logo=Oracle
+[Oracle]:https://img.shields.io/badge/Oracle-20232A?style=social&logo=Oracle
 [Oracle-url]: https://www.oracle.com/database/
 
-[Mongodb]:https://img.shields.io/badge/Mongodb-20232A?style=for-the-badge&logo=Mongodb
+[Mongodb]:https://img.shields.io/badge/Mongodb-20232A?style=social&logo=Mongodb
 [Mongodb-url]:https://www.mongodb.com/
 
-[Redis]:https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=Redis
+[Redis]:https://img.shields.io/badge/Redis-20232A?style=social&logo=Redis
 [Redis-url]:https://redis.io/
 
-[Gradle]: https://img.shields.io/badge/Gradle-20232A?style=for-the-badge&logo=Gradle
+[Gradle]: https://img.shields.io/badge/Gradle-20232A?style=social&logo=Gradle
 [Gradle-url]: https://gradle.org/
 
-[Maven]: https://img.shields.io/badge/Apache_Maven-20232A?style=for-the-badge&logo=Apache%20Maven
+[Maven]: https://img.shields.io/badge/Apache_Maven-20232A?style=social&logo=Apache%20Maven
 [Maven-url]: https://maven.apache.org/
 
-[Webpack]: https://img.shields.io/badge/Webpack-20232A?style=for-the-badge&logo=Webpack
+[Webpack]: https://img.shields.io/badge/Webpack-20232A?style=social&logo=Webpack
 [Webpack-url]: https://webpack.js.org/
 
-[Gulp]: https://img.shields.io/badge/Gulp-20232A?style=for-the-badge&logo=Gulp
+[Gulp]: https://img.shields.io/badge/Gulp-20232A?style=social&logo=Gulp
 [Gulp-url]: https://gulpjs.com/
 
-[Grunt]: https://img.shields.io/badge/Grunt-20232A?style=for-the-badge&logo=Grunt
+[Grunt]: https://img.shields.io/badge/Grunt-20232A?style=social&logo=Grunt
 [Grunt-url]: https://gruntjs.com/
 
-[GIT]: https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=GIT
+[GIT]: https://img.shields.io/badge/GIT-20232A?style=social&logo=GIT
 [GIT-url]: https://git-scm.com/
 
-[SVN]: https://img.shields.io/badge/Appache_Subversion-20232A?style=for-the-badge&logo=subversion
+[SVN]: https://img.shields.io/badge/Appache_Subversion-20232A?style=social&logo=subversion
 [SVN-url]: https://subversion.apache.org/
 
-[Docker]: https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=Docker
+[Docker]: https://img.shields.io/badge/Docker-20232A?style=social&logo=Docker
 [Docker-url]: https://www.docker.com/
 
-[Kubernetes]: https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=Kubernetes
+[Kubernetes]: https://img.shields.io/badge/Kubernetes-20232A?style=social&logo=Kubernetes
 [Kubernetes-url]: https://kubernetes.io/
 
-[Jenkins]: https://img.shields.io/badge/Jenkins-20232A?style=for-the-badge&logo=Jenkins
+[Jenkins]: https://img.shields.io/badge/Jenkins-20232A?style=social&logo=Jenkins
 [Jenkins-url]: https://www.jenkins.io/
 
-[Gitlab]: https://img.shields.io/badge/Gitlab-20232A?style=for-the-badge&logo=Gitlab
+[Gitlab]: https://img.shields.io/badge/Gitlab-20232A?style=social&logo=Gitlab
 [Gitlab-url]: https://about.gitlab.com/
 
-[Github]: https://img.shields.io/badge/Github-20232A?style=for-the-badge&logo=Github
+[Github]: https://img.shields.io/badge/Github-20232A?style=social&logo=Github
 [Github-url]: https://github.com/
 
-[Splunk]: https://img.shields.io/badge/Splunk-20232A?style=for-the-badge&logo=Splunk
+[Splunk]: https://img.shields.io/badge/Splunk-20232A?style=social&logo=Splunk
 [Splunk-url]: https://www.splunk.com/
 
-[AdobeAEM]: https://img.shields.io/badge/ADOBE_EXPERIENCE_MANAGER-20232A?style=for-the-badge&logo=adobe
+[AdobeAEM]: https://img.shields.io/badge/ADOBE_EXPERIENCE_MANAGER-20232A?style=social&logo=adobe
 [AdobeAEM-url]:https://experienceleague.adobe.com/
 
-[Wordpress]: https://img.shields.io/badge/Wordpress-20232A?style=for-the-badge&logo=Wordpress
+[Wordpress]: https://img.shields.io/badge/Wordpress-20232A?style=social&logo=Wordpress
 [Wordpress-url]: https://wordpress.com/
 
-[AWS]: https://img.shields.io/badge/AMAZON_AWS-20232A?style=for-the-badge&logo=amazon-aws
+[AWS]: https://img.shields.io/badge/AMAZON_AWS-20232A?style=social&logo=amazon-aws
 [AWS-url]: https://aws.amazon.com/
 
-[Azure]: https://img.shields.io/badge/MICROSOFT_Azure-20232A?style=for-the-badge&logo=microsoft-azure
+[Azure]: https://img.shields.io/badge/MICROSOFT_Azure-20232A?style=social&logo=microsoft-azure
 [Azure-url]: https://azure.microsoft.com/
 
-[GCP]: https://img.shields.io/badge/Google_Cloud-20232A?style=for-the-badge&logo=google-cloud
+[GCP]: https://img.shields.io/badge/Google_Cloud-20232A?style=social&logo=google-cloud
 [GCP-url]: https://cloud.google.com/
 
-[Heroku]:https://img.shields.io/badge/Heroku-20232A?style=for-the-badge&logo=heroku
+[Heroku]:https://img.shields.io/badge/Heroku-20232A?style=social&logo=heroku
 [Heroku-url]: https://www.heroku.com/
 
-[stackoverflow]: https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white
+[stackoverflow]: https://img.shields.io/badge/Stack%20Overflow-F58025?style=social&logo=Stack%20Overflow&logoColor=white
 [stackoverflow-url]: https://stackoverflow.com/story/samuelj90
 
-[github-personal]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[github-personal]: https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=white
 [github-personal-url]: https://github.com/samuelj90
 
-[email]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[email]: https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white
 [email-url]: mailto:samuelj90@gmail.com?subject=[GitHub]%20Personal%20Website%20Contact
 
 [linkedin-url]:https://linkedin.com/in/samuelj90
