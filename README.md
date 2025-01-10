@@ -26,7 +26,7 @@
 [![Spring][spring-logo-url]]([spring-url])  [![Laravel][laravel-logo-url]]([laravel-url])  [![Codeigniter][codeigniter-logo-url]]([codeigniter-url])  [![Nodejs][nodejs-logo-url]]([nodejs-url])  [![Expressjs][expressjs-logo-url]]([expressjs-url])  [![Hibernate][hibernate-logo-url]]([hibernate-url])  [![Struts2][struts2-logo-url]]([struts2-url])  [![Junit][junit-logo-url]]([junit-url])
 
 ### Databases
-[![MySQL][mysql-logo-url]]([mysql-url])  [![MSSQL][mssql-logo-url]]([mssql-url])  [![Oracle][oracle-logo-url]]([oracle-url])  [![Mongodb][mongodb-logo-url]]([mongodb-url])  [![Redis][redis-logo-url]]([redis-url])
+[![MySQL][mysql-logo-url]]([mysql-url])  [![MSSQL][mssql-logo-url]]([mssql-url])  [![Oracle][oracle-logo-url]]([oracle-url])  [![Mongodb][mongodb-logo-url]]([mongodb-url]) [![PostgreSQL][postgresql-logo-url]]([postgresql-url])  [![Redis][redis-logo-url]]([redis-url])
 
 ### Build Tools
 [![Gradle][gradle-logo-url]]([gradle-url])  [![Maven][maven-logo-url]]([maven-url])  [![Webpack][webpack-logo-url]]([webpack-url])  [![Gulp][gulp-logo-url]]([gulp-url])  [![Grunt][grunt-logo-url]]([grunt-url])
@@ -126,6 +126,7 @@
 [mssql-url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 [oracle-url]: https://www.oracle.com/database/
 [mongodb-url]: https://www.mongodb.com
+[postgresql-url]: https://www.postgresql.org/
 [redis-url]: https://redis.io
 
 [gradle-url]: https://gradle.org
@@ -152,7 +153,7 @@
 [gcp-url]: https://cloud.google.com
 [heroku-url]: https://www.heroku.com
 
- 
+
 [java-logo-url]: https://img.shields.io/badge/Java-20232A?style=social&logo=openjdk
 [javascript-logo-url]: https://img.shields.io/badge/JavaScript-20232A?style=social&logo=javascript&logoColor=F7DF1E
 [php-logo-url]: https://img.shields.io/badge/PHP-20232A?style=social&logo=php&logoColor=777BB4
@@ -173,8 +174,8 @@
 [jasmine-logo-url]: https://img.shields.io/badge/Jasmine-20232A?style=social&logo=Jasmine
 [mocha-logo-url]: https://img.shields.io/badge/Mocha-20232A?style=social&logo=Mocha
 [puppeteer-logo-url]: https://img.shields.io/badge/Puppeteer-20232A?style=social&logo=Puppeteer
-[angularjs-logo-url]: https://img.shields.io/badge/AngularJS-20232A?style=social&logo=AngularJS
-[playwright-logo-url]: https://img.shields.io/badge/Playwright-20232A?style=social&logo=Playwright
+[angularjs-logo-url]: https://img.shields.io/badge/AngularJS-20232A?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY2hlbWUvbnNjcGFyZSIgaGVpZ2h0PSIxMDAiIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHg9IjAiIHk9IjAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiBub25lOyIgLz4KPHRleHQgeD0iMjUiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwgd2Vic2l0ZSIgc3R5bGU9ImZpbGw6YmxhY2s7Zm9udC1zaXplOjM4cHg7Y29sb3I6YmxhY2s7Ij5EdW1teTwvdGV4dD4KPC9zdmc+Cg==
+[playwright-logo-url]: https://img.shields.io/badge/Playwright-20232A?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY2hlbWUvbnNjcGFyZSIgaGVpZ2h0PSIxMDAiIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHg9IjAiIHk9IjAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiBub25lOyIgLz4KPHRleHQgeD0iMjUiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwgd2Vic2l0ZSIgc3R5bGU9ImZpbGw6YmxhY2s7Zm9udC1zaXplOjM4cHg7Y29sb3I6YmxhY2s7Ij5EdW1teTwvdGV4dD4KPC9zdmc+Cg==
 
 [spring-logo-url]: https://img.shields.io/badge/Spring-20232A?style=social&logo=spring
 [laravel-logo-url]: https://img.shields.io/badge/Laravel-20232A?style=social&logo=Laravel
@@ -183,12 +184,13 @@
 [expressjs-logo-url]: https://img.shields.io/badge/Express-20232A?style=social&logo=express
 [hibernate-logo-url]: https://img.shields.io/badge/Hibernate-20232A?style=social&logo=hibernate
 [struts2-logo-url]: https://img.shields.io/badge/Struts-20232A?style=social&logo=apache
-[junit-logo-url]: https://img.shields.io/badge/Junit-20232A?style=social&logo=junit
+[junit-logo-url]: https://img.shields.io/badge/Junit-20232A?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY2hlbWUvbnNjcGFyZSIgaGVpZ2h0PSIxMDAiIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHg9IjAiIHk9IjAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiBub25lOyIgLz4KPHRleHQgeD0iMjUiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwgd2Vic2l0ZSIgc3R5bGU9ImZpbGw6YmxhY2s7Zm9udC1zaXplOjM4cHg7Y29sb3I6YmxhY2s7Ij5EdW1teTwvdGV4dD4KPC9zdmc+Cg==
 
 [mysql-logo-url]: https://img.shields.io/badge/MySQL-20232A?style=social&logo=MySQL
-[mssql-logo-url]: https://img.shields.io/badge/MSSQL-20232A?style=social&logo=microsoft-sql-server
-[oracle-logo-url]: https://img.shields.io/badge/Oracle-20232A?style=social&logo=Oracle
+[mssql-logo-url]: https://img.shields.io/badge/MSSQL-20232A?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY2hlbWUvbnNjcGFyZSIgaGVpZ2h0PSIxMDAiIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHg9IjAiIHk9IjAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiBub25lOyIgLz4KPHRleHQgeD0iMjUiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwgd2Vic2l0ZSIgc3R5bGU9ImZpbGw6YmxhY2s7Zm9udC1zaXplOjM4cHg7Y29sb3I6YmxhY2s7Ij5EdW1teTwvdGV4dD4KPC9zdmc+Cg==
+[oracle-logo-url]: https://img.shields.io/badge/Oracle-20232A?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY2hlbWUvbnNjcGFyZSIgaGVpZ2h0PSIxMDAiIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHg9IjAiIHk9IjAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiBub25lOyIgLz4KPHRleHQgeD0iMjUiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwgd2Vic2l0ZSIgc3R5bGU9ImZpbGw6YmxhY2s7Zm9udC1zaXplOjM4cHg7Y29sb3I6YmxhY2s7Ij5EdW1teTwvdGV4dD4KPC9zdmc+Cg==
 [mongodb-logo-url]: https://img.shields.io/badge/Mongodb-20232A?style=social&logo=Mongodb
+[postgresql-logo-url]: https://img.shields.io/badge/PostgreSQL-20232A?style=social&logo=PostgreSQL
 [redis-logo-url]: https://img.shields.io/badge/Redis-20232A?style=social&logo=Redis
 
 [gradle-logo-url]: https://img.shields.io/badge/Gradle-20232A?style=social&logo=Gradle
@@ -207,11 +209,11 @@
 [github-logo-url]: https://img.shields.io/badge/Github-20232A?style=social&logo=Github
 [splunk-logo-url]: https://img.shields.io/badge/Splunk-20232A?style=social&logo=Splunk
 
-[adobeAEM-logo-url]: https://img.shields.io/badge/Adobe%20AEM-20232A?style=social&logo=adobe
+[adobeAEM-logo-url]: https://img.shields.io/badge/Adobe%20AEM-20232A?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY2hlbWUvbnNjcGFyZSIgaGVpZ2h0PSIxMDAiIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHg9IjAiIHk9IjAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiBub25lOyIgLz4KPHRleHQgeD0iMjUiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwgd2Vic2l0ZSIgc3R5bGU9ImZpbGw6YmxhY2s7Zm9udC1zaXplOjM4cHg7Y29sb3I6YmxhY2s7Ij5EdW1teTwvdGV4dD4KPC9zdmc+Cg==
 [wordpress-logo-url]: https://img.shields.io/badge/WordPress-20232A?style=social&logo=Wordpress
 
-[aws-logo-url]: https://img.shields.io/badge/AWS-20232A?style=social&logo=amazon-aws
-[azure-logo-url]: https://img.shields.io/badge/Azure-20232A?style=social&logo=microsoft-azure
+[aws-logo-url]: https://img.shields.io/badge/AWS-20232A?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY2hlbWUvbnNjcGFyZSIgaGVpZ2h0PSIxMDAiIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHg9IjAiIHk9IjAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiBub25lOyIgLz4KPHRleHQgeD0iMjUiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwgd2Vic2l0ZSIgc3R5bGU9ImZpbGw6YmxhY2s7Zm9udC1zaXplOjM4cHg7Y29sb3I6YmxhY2s7Ij5EdW1teTwvdGV4dD4KPC9zdmc+Cg==
+[azure-logo-url]: https://img.shields.io/badge/Azure-20232A?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY2hlbWUvbnNjcGFyZSIgaGVpZ2h0PSIxMDAiIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHg9IjAiIHk9IjAiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiBub25lOyIgLz4KPHRleHQgeD0iMjUiIHk9IjUwIiBmb250LWZhbWlseT0iQXJpYWwgd2Vic2l0ZSIgc3R5bGU9ImZpbGw6YmxhY2s7Zm9udC1zaXplOjM4cHg7Y29sb3I6YmxhY2s7Ij5EdW1teTwvdGV4dD4KPC9zdmc+Cg==
 [gcp-logo-url]: https://img.shields.io/badge/GCP-20232A?style=social&logo=google-cloud
 [heroku-logo-url]: https://img.shields.io/badge/Heroku-20232A?style=social&logo=heroku
 
